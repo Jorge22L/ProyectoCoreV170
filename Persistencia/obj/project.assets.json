@@ -5691,11 +5691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+      "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\JorgeL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5716,8 +5716,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Dominio\\Dominio.csproj"
+            "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Dominio\\Dominio.csproj"
             }
           }
         }

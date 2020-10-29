@@ -5712,11 +5712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\ProyectoCore\\ProyectoCore.csproj",
+      "projectUniqueName": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\ProyectoCore\\ProyectoCore.csproj",
       "projectName": "ProyectoCore",
-      "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\ProyectoCore\\ProyectoCore.csproj",
+      "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\ProyectoCore\\ProyectoCore.csproj",
       "packagesPath": "C:\\Users\\JorgeL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\ProyectoCore\\obj\\",
+      "outputPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\ProyectoCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5737,8 +5737,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Aplicacion\\Aplicacion.csproj": {
-              "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Aplicacion\\Aplicacion.csproj"
+            "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Aplicacion\\Aplicacion.csproj": {
+              "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Aplicacion\\Aplicacion.csproj"
             }
           }
         }

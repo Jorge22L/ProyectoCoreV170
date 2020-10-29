@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUfiR5MBS1+nou+WgzoZBvYGrZqjvmbW16veH4XW9BZkxNBiwkyS3J6s6CYgN43Zg4QKB8GQRYoCkjdxTOI5Ig==",
+  "dgSpecHash": "rKjFsW5nifGv5k2LbnFDQz7RnAFaAtIIpGgSYums2Uw8O89Br0UgFPKxjmDZl1akt4/4RovD4pz3YaK3X9rr3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JorgeL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\JorgeL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\JorgeL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

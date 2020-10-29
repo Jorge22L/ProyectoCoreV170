@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5m8oyIt5Ktf7YzOkaFOanaz3kj+S61McBP9ayHEvWWqXG3ICc9QP1uuyCGVcJl2xxcLuQXm6qGrW34HHtZxjQ==",
+  "dgSpecHash": "VElg0p0NUs1A/oj0Rq65qZYSZZgSjw2qWkqRh7pYMU61adsGQDZHv8fmXBnZYwWU0o4ltyWCdwNi9uidxjm6zA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCore\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\JorgeL\\Documents\\RespaldosProyectos\\ProyectoSD\\V170\\ProyectoCoreV170\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JorgeL\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\JorgeL\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
